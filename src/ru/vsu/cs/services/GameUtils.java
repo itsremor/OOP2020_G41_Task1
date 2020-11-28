@@ -1,7 +1,7 @@
-package ru.vsu.cs.mechanic;
+package ru.vsu.cs.services;
 
-import ru.vsu.cs.players.Detective;
-import ru.vsu.cs.players.MrX;
+import ru.vsu.cs.models.characters.Detective;
+import ru.vsu.cs.models.characters.MrX;
 
 class GameUtils {
 
