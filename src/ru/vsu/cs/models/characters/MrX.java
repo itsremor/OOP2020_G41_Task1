@@ -5,9 +5,6 @@ public class MrX extends Character {
     private int blackTicket;
 
     public MrX(int detectiveCount) {
-        this.busTickets = 3;
-        this.metroTickets = 3;
-        this.taxiTickets = 4;
         this.doubleMove = 2;
         this.blackTicket = detectiveCount;
         this.characterType = CharacterType.MRX;
